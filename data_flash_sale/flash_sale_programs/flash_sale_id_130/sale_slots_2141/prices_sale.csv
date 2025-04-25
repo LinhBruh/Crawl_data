@@ -1,0 +1,4 @@
+id,province_id,product_id,flash_sale_slot_id,product_normal_price,product_special_price,product_flash_sale_price,hide_price
+153712,5,81620,2141,250000,225000,119000,
+153713,5,81621,2141,250000,225000,119000,
+153714,5,81619,2141,0,0,119000,
